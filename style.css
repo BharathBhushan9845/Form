@@ -1,0 +1,23 @@
+
+
+h1 {
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: rgb(194, 50, 79);
+    }
+.spacing {
+    background-color: lightskyblue;
+    text-align: justify;
+    width: 120px;
+    margin-top: 40px;
+    height: 30px;
+    
+}
+.submit {
+    background-color: lightslategrey;
+    color: maroon;
+    width: auto;
+    margin-top: 30px;
+    text-align: center;
+}
